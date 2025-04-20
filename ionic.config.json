@@ -1,0 +1,8 @@
+{
+  "name": "E commerce",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "70e9db04"
+}
